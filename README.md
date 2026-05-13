@@ -7,7 +7,7 @@ Estudante de ciência da computação com foco em desenvolvimento fullstack e in
 
 **Alocaí ([Frontend](https://github.com/RickyM7/alocai-frontend) | [Backend](https://github.com/RickyM7/alocai-backend))** · [Demo ao vivo ↗](https://alocai-ufape.vercel.app/)
 Plataforma de gerenciamento e agendamento de laboratórios em instituições de ensino desenvolvido em equipe na disciplina de Projeto de Desenvolvimento. Possui autenticação OAuth 2.0, painel admin, notificações em tempo real e centenas de testes unitários.
-`Vue 3` `Nuxt 3` `TypeScript` `Pinia` `Vitest`
+`Vue 3` `Nuxt 3` `TypeScript` `Pinia` `Vitest` `Django` `DRF`
 
 **[Hub Inteligente de Recursos Educacionais](https://github.com/RickyM7/Hub-Inteligente-de-Recursos-Educacionais)** · [Demo ao vivo ↗](https://hub-inteligente.vercel.app/)
 Sistema fullstack de gerenciamento de materiais didáticos com IA integrada. O *Smart Assist* usa Gemini 2.5 Flash para gerar descrições e tags automaticamente a partir do título do material.
@@ -36,6 +36,7 @@ Coleção de mini projetos pessoais: Jogo do Dino com IA, Jogo da Forca, Jogo da
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=flat&logo=swi-prolog&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-42B883?style=flat&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
