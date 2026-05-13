@@ -5,8 +5,8 @@ Estudante de ciência da computação com foco em desenvolvimento fullstack e in
 
 ### Projetos em destaque
 
-**[Alocaí](https://github.com/RickyM7/alocai-frontend)** · [Demo ao vivo ↗](https://alocai-ufape.vercel.app/)
-Plataforma de gerenciamento e agendamento de laboratórios em instituições de ensino. Desenvolvido em equipe na disciplina de Projeto de Desenvolvimento da UFAPE, com autenticação OAuth 2.0, painel admin, notificações em tempo real e 109 testes unitários.
+**Alocaí ([Frontend](https://github.com/RickyM7/alocai-frontend) | [Backend](https://github.com/RickyM7/alocai-backend))** · [Demo ao vivo ↗](https://alocai-ufape.vercel.app/)
+Plataforma de gerenciamento e agendamento de laboratórios em instituições de ensino. Desenvolvido em equipe na disciplina de Projeto de Desenvolvimento da UFAPE, com autenticação OAuth 2.0, painel admin, notificações em tempo real e centenas de testes unitários.
 `Vue 3` `Nuxt 3` `TypeScript` `Pinia` `Vitest`
 
 **[Hub Inteligente de Recursos Educacionais](https://github.com/RickyM7/Hub-Inteligente-de-Recursos-Educacionais)** · [Demo ao vivo ↗](https://hub-inteligente.vercel.app/)
@@ -17,7 +17,7 @@ Sistema fullstack de gerenciamento de materiais didáticos com IA integrada. O *
 Sistema de gestão de frota de caminhões de carga desenvolvido em equipe na disciplina de Engenharia de Software da UFAPE. Permite cadastro e monitoramento de caminhões, motoristas e rotas, com testes BDD usando Cucumber/Gherkin.
 `Ruby` `Rails 7` `Gherkin` `Cucumber`
 
-**[TaskHive](https://github.com/RickyM7/task-hive-front)**
+**TaskHive ([Frontend](https://github.com/RickyM7/task-hive-front) | [Backend](https://github.com/RickyM7/task-hive-back))**
 App de gerenciamento de tarefas desenvolvido em equipe na disciplina de POO. Frontend em Vue.js com Vuetify, backend em Java com Spring Boot.
 `Vue.js` `Nuxt 2` `Vuetify` `Java` `Spring Boot`
 
