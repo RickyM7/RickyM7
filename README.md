@@ -9,10 +9,6 @@ Estudante de ciência da computação com foco em desenvolvimento fullstack e in
 Plataforma de gerenciamento e agendamento de laboratórios em instituições de ensino desenvolvido em equipe na disciplina de Projeto de Desenvolvimento. Possui autenticação OAuth 2.0, painel admin, notificações em tempo real e centenas de testes unitários.
 `Vue 3` `Nuxt 3` `TypeScript` `Pinia` `Vitest` `Django` `DRF`
 
-**[Hub Inteligente de Recursos Educacionais](https://github.com/RickyM7/Hub-Inteligente-de-Recursos-Educacionais)** · [Demo ao vivo ↗](https://hub-inteligente.vercel.app/)
-Sistema fullstack de gerenciamento de materiais didáticos com IA integrada. O *Smart Assist* usa Gemini 2.5 Flash para gerar descrições e tags automaticamente a partir do título do material.
-`Python` `FastAPI` `React 19` `SQLAlchemy` `SQLite` `Google Gemini`
-
 **[Gestão e Monitoramento de Frota](https://github.com/RickyM7/gestao-monitoramento-frota)** · [Demo ao vivo ↗](https://gestao-monitoramento-frota.onrender.com)
 Sistema de gestão de frota de caminhões de carga desenvolvido em equipe na disciplina de Engenharia de Software. Permite cadastro e monitoramento de caminhões, motoristas e rotas, com testes BDD usando Cucumber/Gherkin.
 `Ruby` `Rails 7` `Gherkin` `Cucumber`
@@ -32,19 +28,13 @@ Coleção de mini projetos pessoais: Jogo do Dino com IA, Jogo da Forca, Jogo da
 ### Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=flat&logo=swi-prolog&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-42B883?style=flat&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ---
