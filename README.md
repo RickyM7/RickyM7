@@ -25,8 +25,6 @@ Coleção de mini projetos pessoais: Jogo do Dino com IA, Jogo da Forca, Jogo da
 
 ### Tecnologias
 
-### Tecnologias
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
